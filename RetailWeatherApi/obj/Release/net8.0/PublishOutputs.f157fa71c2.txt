@@ -1,0 +1,11 @@
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\RetailWeatherApi.exe
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\RetailWeatherApi.dll
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\RetailWeatherApi.deps.json
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\RetailWeatherApi.runtimeconfig.json
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\RetailWeatherApi.pdb
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Minakshi\PracticeSolution\RetailWeatherApiSolution\RetailWeatherApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
